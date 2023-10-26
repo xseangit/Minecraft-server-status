@@ -1,0 +1,12 @@
+C:\Users\aliha\OneDrive\Desktop\prj\api\Mc.status\bin\Debug\net7.0\Mc.status.deps.json
+C:\Users\aliha\OneDrive\Desktop\prj\api\Mc.status\bin\Debug\net7.0\Mc.status.dll
+C:\Users\aliha\OneDrive\Desktop\prj\api\Mc.status\bin\Debug\net7.0\Mc.status.pdb
+C:\Users\aliha\OneDrive\Desktop\prj\api\Mc.status\obj\Debug\net7.0\Mc.status.csproj.AssemblyReference.cache
+C:\Users\aliha\OneDrive\Desktop\prj\api\Mc.status\obj\Debug\net7.0\Mc.status.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliha\OneDrive\Desktop\prj\api\Mc.status\obj\Debug\net7.0\Mc.status.AssemblyInfoInputs.cache
+C:\Users\aliha\OneDrive\Desktop\prj\api\Mc.status\obj\Debug\net7.0\Mc.status.AssemblyInfo.cs
+C:\Users\aliha\OneDrive\Desktop\prj\api\Mc.status\obj\Debug\net7.0\Mc.status.csproj.CoreCompileInputs.cache
+C:\Users\aliha\OneDrive\Desktop\prj\api\Mc.status\obj\Debug\net7.0\Mc.status.dll
+C:\Users\aliha\OneDrive\Desktop\prj\api\Mc.status\obj\Debug\net7.0\refint\Mc.status.dll
+C:\Users\aliha\OneDrive\Desktop\prj\api\Mc.status\obj\Debug\net7.0\Mc.status.pdb
+C:\Users\aliha\OneDrive\Desktop\prj\api\Mc.status\obj\Debug\net7.0\ref\Mc.status.dll

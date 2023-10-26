@@ -1,0 +1,6 @@
+sudo systemctl stop kestrel-helloapp.service
+
+rm -rf out
+dotnet publish --configuration Release -o /root/dotnet/out
+
+sudo systemctl start kestrel-helloapp.service

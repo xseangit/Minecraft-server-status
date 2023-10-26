@@ -1,0 +1,11 @@
+/root/dotnet/bin/Release/net6.0/publish/dotnet
+/root/dotnet/bin/Release/net6.0/publish/appsettings.Development.json
+/root/dotnet/bin/Release/net6.0/publish/appsettings.json
+/root/dotnet/bin/Release/net6.0/publish/dotnet.dll
+/root/dotnet/bin/Release/net6.0/publish/dotnet.deps.json
+/root/dotnet/bin/Release/net6.0/publish/dotnet.runtimeconfig.json
+/root/dotnet/bin/Release/net6.0/publish/dotnet.pdb
+/root/dotnet/bin/Release/net6.0/publish/Microsoft.OpenApi.dll
+/root/dotnet/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/root/dotnet/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/root/dotnet/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll

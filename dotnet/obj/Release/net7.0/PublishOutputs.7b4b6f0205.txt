@@ -1,0 +1,14 @@
+/root/dotnet/out/dotnet
+/root/dotnet/out/appsettings.Development.json
+/root/dotnet/out/appsettings.json
+/root/dotnet/out/dotnet.dll
+/root/dotnet/out/dotnet.deps.json
+/root/dotnet/out/dotnet.runtimeconfig.json
+/root/dotnet/out/dotnet.pdb
+/root/dotnet/out/Microsoft.Extensions.Hosting.Systemd.dll
+/root/dotnet/out/Microsoft.OpenApi.dll
+/root/dotnet/out/MineStat.dll
+/root/dotnet/out/Swashbuckle.AspNetCore.Swagger.dll
+/root/dotnet/out/Swashbuckle.AspNetCore.SwaggerGen.dll
+/root/dotnet/out/Swashbuckle.AspNetCore.SwaggerUI.dll
+/root/dotnet/out/runtimes/win/lib/net7.0/System.Diagnostics.EventLog.Messages.dll
